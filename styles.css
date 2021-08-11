@@ -1,0 +1,107 @@
+body{
+  font-family: 'Montserrat';
+}
+h1 {
+  font-family: "Lucida Console", Monaco, monospace;
+font-weight: 900;
+font-size: 3.5rem;
+line-height: 1.5;
+color: white;
+padding: 1rem;;
+
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+#titl{
+  background-color: #ff4c68
+}
+.navbar-brand{
+  font-size: 30px;
+  color: white;
+  font-family:'Ubuntu'
+}
+.navbar{
+  padding-bottom: 3.5rem;
+}
+.nav-item{
+  padding: 1rem;
+  font-size: 1.3rem;
+}
+.downbtn{
+  margin-top: 5%;
+  margin-right: 5%;
+  margin-bottom: 1%;
+}
+.gh{
+  margin-top: 1%;
+  width: 60%;
+  transform: rotate(15deg);
+}
+.col-4-lg{
+  padding:2%;
+  text-align: center;}
+  #features{
+    margin-top: 60px;
+    margin-bottom: 150px;
+    margin-left: 120px;
+  }
+h3{
+  padding: 10px;
+}
+h2{
+  font-family: 'Montserrat-bold';
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.fg{
+  margin-top: 40px;
+  color: pink;
+  width: 24px;
+  height: 24px;
+  margin-right: 30px;
+  margin-bottom: 40px;
+  line-height: 2;
+}
+.fg:hover{
+  color:red;
+}
+.fc{
+  padding: 1%;
+}
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color:pink;
+  color: #fff;
+}
+.test-img{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+  text-align: center;
+  background-color:pink;
+  color: #fff;
+  padding-bottom: 3%;
+}
+.press-logo{
+  width: 15%;
+  margin: 0px 20px 50px;
+}
+.carousel-item{
+  padding: 3% 10%;
+}
+#pricing{
+  padding: 30px;
+}
+#cta{
+  background-color: #ff4c68;
+  padding: 10px;
+  text-align: center;
+}
+#hj{
+  color:white;
+  line-height: 0.2;
+}
